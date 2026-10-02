@@ -1,0 +1,6 @@
+src/
+img/
+build.js
+apercu.html
+node_modules/
+.DS_Store
